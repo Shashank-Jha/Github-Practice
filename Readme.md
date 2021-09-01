@@ -1,1 +1,1 @@
-# BranchOne Git & Github practice
+# Main Git & Github practice
